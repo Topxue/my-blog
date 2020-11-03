@@ -1,0 +1,9 @@
+diff --git a/node_modules/hexo-theme-fluid/source/img/avatar.png b/node_modules/hexo-theme-fluid/source/img/avatar.png
+index ffd1c77..7aafb4c 100644
+Binary files a/node_modules/hexo-theme-fluid/source/img/avatar.png and b/node_modules/hexo-theme-fluid/source/img/avatar.png differ
+diff --git a/node_modules/hexo-theme-fluid/source/img/default.png b/node_modules/hexo-theme-fluid/source/img/default.png
+index 5e03e81..941a04b 100644
+Binary files a/node_modules/hexo-theme-fluid/source/img/default.png and b/node_modules/hexo-theme-fluid/source/img/default.png differ
+diff --git a/node_modules/hexo-theme-fluid/source/img/favicon.png b/node_modules/hexo-theme-fluid/source/img/favicon.png
+index 368a58a..99c03d3 100644
+Binary files a/node_modules/hexo-theme-fluid/source/img/favicon.png and b/node_modules/hexo-theme-fluid/source/img/favicon.png differ
